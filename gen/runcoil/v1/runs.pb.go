@@ -937,8 +937,8 @@ const file_runcoil_v1_runs_proto_rawDesc = "" +
 	"\aWaitRun\x12\x1a.runcoil.v1.WaitRunRequest\x1a\x1b.runcoil.v1.WaitRunResponse\x12E\n" +
 	"\bListRuns\x12\x1b.runcoil.v1.ListRunsRequest\x1a\x1c.runcoil.v1.ListRunsResponse\x12<\n" +
 	"\x05Rerun\x12\x18.runcoil.v1.RerunRequest\x1a\x19.runcoil.v1.RerunResponse\x12H\n" +
-	"\tListTasks\x12\x1c.runcoil.v1.ListTasksRequest\x1a\x1d.runcoil.v1.ListTasksResponseB\xa6\x01\n" +
-	"\x0ecom.runcoil.v1B\tRunsProtoP\x01Z@github.com/tuanvumaihuynh/runcoil-proto/gen/runcoil/v1;runcoilv1\xa2\x02\x03RXX\xaa\x02\n" +
+	"\tListTasks\x12\x1c.runcoil.v1.ListTasksRequest\x1a\x1d.runcoil.v1.ListTasksResponseB\x9f\x01\n" +
+	"\x0ecom.runcoil.v1B\tRunsProtoP\x01Z9github.com/runcoil/runcoil-proto/gen/runcoil/v1;runcoilv1\xa2\x02\x03RXX\xaa\x02\n" +
 	"Runcoil.V1\xca\x02\n" +
 	"Runcoil\\V1\xe2\x02\x16Runcoil\\V1\\GPBMetadata\xea\x02\vRuncoil::V1b\x06proto3"
 

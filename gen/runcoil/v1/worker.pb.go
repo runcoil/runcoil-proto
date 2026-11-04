@@ -1789,8 +1789,8 @@ const file_runcoil_v1_worker_proto_rawDesc = "" +
 	"\vAckDispatch\x12\x1e.runcoil.v1.AckDispatchRequest\x1a\x1f.runcoil.v1.AckDispatchResponse\x12K\n" +
 	"\n" +
 	"RecordStep\x12\x1d.runcoil.v1.RecordStepRequest\x1a\x1e.runcoil.v1.RecordStepResponse\x12H\n" +
-	"\tFinishRun\x12\x1c.runcoil.v1.FinishRunRequest\x1a\x1d.runcoil.v1.FinishRunResponseB\xa8\x01\n" +
-	"\x0ecom.runcoil.v1B\vWorkerProtoP\x01Z@github.com/tuanvumaihuynh/runcoil-proto/gen/runcoil/v1;runcoilv1\xa2\x02\x03RXX\xaa\x02\n" +
+	"\tFinishRun\x12\x1c.runcoil.v1.FinishRunRequest\x1a\x1d.runcoil.v1.FinishRunResponseB\xa1\x01\n" +
+	"\x0ecom.runcoil.v1B\vWorkerProtoP\x01Z9github.com/runcoil/runcoil-proto/gen/runcoil/v1;runcoilv1\xa2\x02\x03RXX\xaa\x02\n" +
 	"Runcoil.V1\xca\x02\n" +
 	"Runcoil\\V1\xe2\x02\x16Runcoil\\V1\\GPBMetadata\xea\x02\vRuncoil::V1b\x06proto3"
 

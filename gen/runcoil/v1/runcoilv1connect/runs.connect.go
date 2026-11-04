@@ -11,7 +11,7 @@ package runcoilv1connect
 import (
 	connect "connectrpc.com/connect/v2"
 	context "context"
-	v1 "github.com/tuanvumaihuynh/runcoil-proto/gen/runcoil/v1"
+	v1 "github.com/runcoil/runcoil-proto/gen/runcoil/v1"
 	sync "sync"
 )
 
