@@ -1200,8 +1200,8 @@ const file_runcoil_v1_common_proto_rawDesc = "" +
 	"\x16ERROR_CODE_STALE_LEASE\x10\n" +
 	"\x12\x1f\n" +
 	"\x1bERROR_CODE_RUN_NOT_FINISHED\x10\v\x12\x1d\n" +
-	"\x19ERROR_CODE_STEP_NOT_FOUND\x10\fB\xa8\x01\n" +
-	"\x0ecom.runcoil.v1B\vCommonProtoP\x01Z@github.com/tuanvumaihuynh/runcoil-proto/gen/runcoil/v1;runcoilv1\xa2\x02\x03RXX\xaa\x02\n" +
+	"\x19ERROR_CODE_STEP_NOT_FOUND\x10\fB\xa1\x01\n" +
+	"\x0ecom.runcoil.v1B\vCommonProtoP\x01Z9github.com/runcoil/runcoil-proto/gen/runcoil/v1;runcoilv1\xa2\x02\x03RXX\xaa\x02\n" +
 	"Runcoil.V1\xca\x02\n" +
 	"Runcoil\\V1\xe2\x02\x16Runcoil\\V1\\GPBMetadata\xea\x02\vRuncoil::V1b\x06proto3"
 

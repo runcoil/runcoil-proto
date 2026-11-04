@@ -1,6 +1,6 @@
 # runcoil-proto
 
-The protobuf schema of the [Runcoil](https://github.com/tuanvumaihuynh/runcoil)
+The protobuf schema of the [Runcoil](https://github.com/runcoil/runcoil)
 protocol, with its generated Go code. It describes the calls between a worker
 SDK and the server, and between a caller and the server. Managed with
 [Buf](https://buf.build).
@@ -20,8 +20,8 @@ Import paths:
 
 ```go
 import (
-	runcoilv1 "github.com/tuanvumaihuynh/runcoil-proto/gen/runcoil/v1"
-	"github.com/tuanvumaihuynh/runcoil-proto/gen/runcoil/v1/runcoilv1connect"
+	runcoilv1 "github.com/runcoil/runcoil-proto/gen/runcoil/v1"
+	"github.com/runcoil/runcoil-proto/gen/runcoil/v1/runcoilv1connect"
 )
 ```
 

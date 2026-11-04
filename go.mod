@@ -1,4 +1,4 @@
-module github.com/tuanvumaihuynh/runcoil-proto
+module github.com/runcoil/runcoil-proto
 
 go 1.26.0
 
